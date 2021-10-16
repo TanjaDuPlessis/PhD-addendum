@@ -1,2 +1,7 @@
 # PhD-addendum
-Addendum to dissertation titled "Adaptive games for learner and systems (bidirectional) learning" (Tanja von Leipzig)
+This repository serves as an addendum to dissertation titled _"Adaptive games for learner and systems (bidirectional) learning"_ by Tanja von Leipzig.
+
+It contains the following:
+* _Scripts_: The main scripts written for the game (Jupiter)
+* _Game build_: An executable for running the game (Jupiter)
+* _jupitero_database.xlsx_: A database extract following the beta testing (Jupiter)
